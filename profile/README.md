@@ -1,6 +1,6 @@
 ## Welcome to Open Ag Tools 👋
 
-**Open Ag- ools** is a collaborative space dedicated to open-source software for the agricultural industry.  
+**Open Ag Tools** is a collaborative space dedicated to open-source software for the agricultural industry.  
 Our goal is to bring together developers, researchers, and agricultural professionals to create and share tools that drive innovation, efficiency, and sustainability in agriculture.
 
 ---
