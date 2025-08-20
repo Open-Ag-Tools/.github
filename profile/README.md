@@ -34,8 +34,8 @@ You can help by:
 - Opening issues or pull requests on hosted repositories  
 
 Please read our:
-- [Contribution Guidelines](CONTRIBUTING.md)  
-- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Contribution Guidelines](../CONTRIBUTING.md)  
+- [Code of Conduct](../CODE_OF_CONDUCT.md)
 
 <!-- Please read our [Contribution Guidelines](CONTRIBUTING.md) to get started. -->
 
